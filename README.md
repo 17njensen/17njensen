@@ -1,6 +1,6 @@
 <!-- **17njensen/17njensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h1 align="center">Welcome! I'm Nikolas (Nik) Jensen</h1>
+<h1 align="center">Welcome! I'm Nik Jensen</h1>
 <h3 align="center">I am currently a master's student at Utah State University.</h3>
 
 Some Notable Projects: 
