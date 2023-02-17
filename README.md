@@ -1,12 +1,13 @@
-### Hi there 👋
-
-<!--
-**17njensen/17njensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **17njensen/17njensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Welcome! I'm Nikolas (Nik) Jensen</h1>
 <h3 align="center">I am currently a master's student at Utah State University.</h3>
 
-- Some Notable Projects: [https://github.com/17njensen/sample-rate-conversion](https://github.com/17njensen/sample-rate-conversion)
+Some Notable Projects: 
+- [Sample Rate Conversion](https://github.com/17njensen/sample-rate-conversion)
+- [Digital Theremin Using Distance Sensors](https://github.com/17njensen/Digital-Theremin-STM32L476-in-c)
+- [Fast-Convolution Using DFFT](https://github.com/17njensen/fast-convolution)
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
