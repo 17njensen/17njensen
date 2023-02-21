@@ -12,9 +12,9 @@ Notable Projects:
 Recent Coursework At USU:
 - [ECE 6030 - Mathematical Methods for Signals and Systems](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=286776)
 - [ECE 6010 - Stochastic Processes in Electronic Systems](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=286775)
+- [ECE 5630 - Digital Signal and Image Processing](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=286763)
 - [ECE 6160 - Electric Vehicle Design Laboratory](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=291926)
 - [ECE 6150 - Power Electronics for Electric Drive Vehicles](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=291924)<!--   - [See the project here!](LINK TO EBIKE PROJECT) -->
-- [ECE 5630 - Digital Signal and Image Processing](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=286763)
 - [ECE 5120 - Introduction to Power Electronics](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=291926)
 
 
