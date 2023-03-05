@@ -6,6 +6,7 @@
 
 Notable Projects: 
 - [Sample Rate Conversion](https://github.com/17njensen/sample-rate-conversion)
+- [Simulated Communcation System Receiver](https://github.com/17njensen/communication-system-simulator)
 - [Digital Theremin Using Distance Sensors](https://github.com/17njensen/Digital-Theremin-STM32L476-in-c)
 - [Fast-Convolution Using DFFT](https://github.com/17njensen/fast-convolution)
 
