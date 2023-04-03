@@ -3,6 +3,10 @@
 <h1 align="center">Welcome! I'm Nik Jensen</h1>
 <h3 align="center">I am currently a master's student studying electrical engineering at Utah State University, researching developments for LIDAR 3D mapping/imagery and GPS-Denied navigation for small UAVs using concepts of signal processing.</h3>
 <h4 align="center">Email: 17njensen1@gmail.com</h4>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/nikolas-jensen-2bbaa6162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikolas-jensen-2bbaa6162/" height="30" width="40" /></a>
+</p>
 
 Current Thesis Project:
 - [GPS-Denied Navigation Using LiDAR and Imagery](https://github.com/17njensen/Thesis-Work/blob/main/README.md)
@@ -27,12 +31,6 @@ Recent Coursework At USU:
       - This course introduces the design and control of power converters in electric drive vehicles. It covers detailed analysis, modeling, and design of major system components. <!-- - (LINK TO EBIKE PROJECT) -->
 - [ECE 5120 - Introduction to Power Electronics](https://engineering.usu.edu/ece/power/education/introduction-power-electronics)
       - Introduction to power electronics and the control and conditioning of electric power. Power Converter topologies are discussed, modeled and analyzed with emphasis on application. Transfer functions are derived for common power converter topologies and control methods are discussed.
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nikolas-jensen-2bbaa6162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikolas-jensen-2bbaa6162/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
