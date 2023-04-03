@@ -4,7 +4,10 @@
 <h3 align="center">I am currently a master's student studying electrical engineering at Utah State University, researching developments for LIDAR 3D mapping/imagery and GPS-Denied navigation for small UAVs using concepts of signal processing.</h3>
 <h4 align="center">Email: 17njensen1@gmail.com</h4>
 
-Notable Projects: 
+Current Thesis Project:
+- [GPS-Denied Navigation Using LiDAR and Imagery](https://github.com/17njensen/Thesis-Work/blob/main/README.md)
+
+Notable Projects From Coursework: 
 - [Methods of Two Dimensional Convolution in Imagery](https://github.com/17njensen/two_dim_conv)
 - [Simulated Communcation System Receiver](https://github.com/17njensen/communication-system-simulator)
 - [Sample Rate Conversion](https://github.com/17njensen/sample-rate-conversion)
