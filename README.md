@@ -6,7 +6,7 @@
 
 
 Current Thesis Project:
-- [DEM Creation, GPS-Denied Navigation Using LiDAR and Imagery, and Feature Extraction](https://github.com/17njensen/Thesis-Work/blob/main/README.md)
+- [DSM Creation, GPS-Denied Navigation Using LiDAR and Imagery, and Feature Extraction](https://github.com/17njensen/Thesis-Work/blob/main/README.md)
 
 Notable Projects From Coursework: 
 - [Methods of Two Dimensional Convolution in Imagery](https://github.com/17njensen/two_dim_conv)
