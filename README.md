@@ -1,11 +1,12 @@
 <!-- **17njensen/17njensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Welcome! I'm Nik Jensen</h1>
-<h3 align="center">This collection of repositories represents past work done with Utah State University for my bachelor's and master's in electrical engineering. My degree's focus was researching developments for LIDAR 3D mapping/imagery and GPS-Denied navigation for small Unmanned Aerial Systems using concepts of signal processing for geospatial applications.</h3>
+<h3 align="center">This repository collection showcases my academic work during my bachelor's and master's degrees in electrical engineering at Utah State University. My studies focused on advancing technologies in LIDAR 3D mapping/imagery and GPS-Denied navigation for small Unmanned Aerial Systems using concepts of signal processing for geospatial applications.</h3>
 <h4 align="center">Email: 17njensen1@gmail.com</h4>
 
 
-Current Thesis Project:
+Thesis Project:
+- [Link to thesis](https://digitalcommons.usu.edu/etd2023/213/)
 - [DSM Creation, GPS-Denied Navigation Using LiDAR and Imagery, and Feature Extraction](https://github.com/17njensen/Thesis-Work/blob/main/README.md)
 
 Notable Projects From Coursework: 
