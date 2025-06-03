@@ -26,7 +26,7 @@ Recent Coursework At USU:
 - [ECE 6160 - Electric Vehicle Design Laboratory](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=291926)
       - Practical and hands-on experience working with a 500W electric bike powertrain. Labs cover modeling, characterization, design, and fabrication, and culminate in e-bike system integration and demonstration
 - [ECE 6150 - Power Electronics for Electric Drive Vehicles](https://catalog.usu.edu/preview_course_nopop.php?catoid=35&coid=291924)
-      - This course introduces the design and control of power converters in electric drive vehicles. It covers detailed analysis, modeling, and design of major system components. <!-- - (LINK TO EBIKE PROJECT) --> -->
+      - This course introduces the design and control of power converters in electric drive vehicles. It covers detailed analysis, modeling, and design of major system components. <!-- - (LINK TO EBIKE PROJECT) -->
 <!-- - [ECE 5120 - Introduction to Power Electronics](https://engineering.usu.edu/ece/power/education/introduction-power-electronics)
       - Introduction to power electronics and the control and conditioning of electric power. Power Converter topologies are discussed, modeled and analyzed with emphasis on application. Transfer functions are derived for common power converter topologies and control methods are discussed.
 
